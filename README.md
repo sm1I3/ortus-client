@@ -1,1 +1,1 @@
-# ortus-client
+# Unofficial Ortus client for android
