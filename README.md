@@ -10,7 +10,7 @@ Ortus client is an android application, that makes your life easier, when it com
 > - Bookmarks
 
 ## Known problems
-- Files download not working
+- Cannot download files
 
 ## Requirements
 
